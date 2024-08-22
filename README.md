@@ -10,6 +10,10 @@ Example testing dataset (gastric dataset): [link](https://drive.google.com/drive
 ## Installation
 ```shell
 conda env create -f environment.yml
+```
+
+```shell
+conda activate virtualstaining
 ``` 
 
 ## Set the directories
