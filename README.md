@@ -4,8 +4,8 @@
 This repository contains codes and datasets necessary for testing the 3D virtual H&E staining of label-free holotomography images of tissue slides.
 
 ## Download datasets and model before testing
-Pre-trained model (gastric dataset) : [link](https://drive.google.com/file/d/1rB6pM1pJmdayTqAzPdaV7xmjihmPQHZm/view?usp=sharing) <br>
-Example testing dataset (gastric dataset): [link](https://drive.google.com/drive/folders/19YCDilCcSdIkYjsbzDsblbmHX_Y3whN0?usp=drive_link)
+Pre-trained model (gastric dataset) : [link](https://drive.google.com/drive/folders/11eFobsXNOKPqrD5Ystblxzzdy4DVaQUb?usp=drive_link) <br>
+Example testing dataset (gastric dataset): [link](https://drive.google.com/drive/folders/1ayCdXJKB5mdLmWgu9QAGYHnHct4T1YBK?usp=drive_link)
 
 ## Installation
 ```shell
