@@ -6,4 +6,4 @@ Pre-trained model on gastric dataset : [https://drive.google.com/file/d/1rB6pM1p
 Example testing dataset (gastric dataset): https://drive.google.com/drive/folders/19YCDilCcSdIkYjsbzDsblbmHX_Y3whN0?usp=drive_link
 
 
-[aaa]([url](https://github.com/BMOLKAIST/Virtual_staining_HE))
+
