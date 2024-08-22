@@ -32,6 +32,18 @@ codes
 
 ```
 
+## Use appropriate path for the following parameters
+In the main.py, 
+
+``` shell
+
+--data_dir = 'xxx/dataset'
+--ckpt_dir = 'xxx/model-gastric/ckpt'
+--result_dir = 'where you want to save the results'
+
+```
+
+
 ## Run the code
 
 ```shell
@@ -39,6 +51,7 @@ codes
 python main.py --network scnas --mode test --batch_size 1
 
 ```
+The training and testing were all performed with the options of --batch_size 1 and --network scnas
 
 ## Expected results
 Expected results for the provided dataset : [link](https://drive.google.com/drive/folders/1B7I-rK08SQtLryqWlFhLTurYagtW-dTU?usp=drive_link)
