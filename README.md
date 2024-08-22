@@ -1,4 +1,6 @@
-# Virtual_staining_HE
+# 3D Virtual_staining_HE
+![Overview of virtual H&E staining](images/fig1.jpg)
+
 This repository contains codes and datasets necessary for testing the virtual H&E staining of label-free holotomography images of tissue slides.
 
 ## Download datasets and model before testing
