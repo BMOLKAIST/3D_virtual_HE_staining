@@ -6,7 +6,9 @@ Pre-trained model (gastric dataset) : [link](https://drive.google.com/file/d/1rB
 Example testing dataset (gastric dataset): [link](https://drive.google.com/drive/folders/19YCDilCcSdIkYjsbzDsblbmHX_Y3whN0?usp=drive_link)
 
 # Installation
-```conda env create -f environment.yml``` 
+```shell
+conda env create -f environment.yml
+``` 
 
 # Set the directories
 
