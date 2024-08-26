@@ -60,7 +60,7 @@ python main.py --network scnas --mode test --batch_size 1
 The training and testing were all performed with the options of --batch_size 1 and --network scnas
 
 ## Expected results
-Expected results for the provided dataset : [link](https://drive.google.com/drive/folders/1B7I-rK08SQtLryqWlFhLTurYagtW-dTU?usp=drive_link)
+Expected results for the provided dataset : [link]([https://drive.google.com/drive/folders/1B7I-rK08SQtLryqWlFhLTurYagtW-dTU?usp=drive_link](https://drive.google.com/drive/folders/1B7I-rK08SQtLryqWlFhLTurYagtW-dTU?usp=drive_link))
 
 ## License
 This project is open-sourced under the MIT license.
