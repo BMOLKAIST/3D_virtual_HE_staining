@@ -5,7 +5,7 @@ This repository contains codes and datasets necessary for testing the 3D virtual
 
 ## Download datasets and model before testing
 Pre-trained model (gastric dataset) : [link](https://drive.google.com/drive/folders/11eFobsXNOKPqrD5Ystblxzzdy4DVaQUb?usp=drive_link) <br>
-Example testing dataset (gastric dataset): [link](https://drive.google.com/drive/folders/1ayCdXJKB5mdLmWgu9QAGYHnHct4T1YBK?usp=drive_link)
+Example training and testing dataset : [link](https://drive.google.com/drive/folders/1ayCdXJKB5mdLmWgu9QAGYHnHct4T1YBK?usp=drive_link)
 
 ## Installation
 ```shell
@@ -50,7 +50,15 @@ In the main.py,
 ```
 
 
-## Run the code
+## Run the code for training
+
+```shell
+
+python main.py --network scnas --mode train --batch_size 1
+
+```
+
+## Run the code for testing
 
 ```shell
 
