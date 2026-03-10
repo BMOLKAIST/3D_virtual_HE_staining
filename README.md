@@ -4,8 +4,7 @@
 This repository contains codes and datasets necessary for testing the 3D virtual H&E staining of label-free holotomography images of tissue slides.
 
 ## Download datasets and model before testing
-Pre-trained model (gastric dataset) : [link](https://drive.google.com/drive/folders/11eFobsXNOKPqrD5Ystblxzzdy4DVaQUb?usp=drive_link) <br>
-Example training and testing dataset : [link](https://drive.google.com/drive/folders/1ayCdXJKB5mdLmWgu9QAGYHnHct4T1YBK?usp=drive_link)
+Pretrained models and example datasets : [link](https://doi.org/10.57760/sciencedb.24217) 
 
 ## Installation
 ```shell
@@ -66,9 +65,6 @@ python main.py --network scnas --mode test --batch_size 1
 
 ```
 The training and testing were all performed with the options of --batch_size 1 and --network scnas
-
-## Expected results
-Expected results for the provided dataset : [link](https://drive.google.com/drive/folders/1B7I-rK08SQtLryqWlFhLTurYagtW-dTU?usp=drive_link)
 
 
 ## License
